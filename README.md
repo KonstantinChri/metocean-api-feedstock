@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/metocean-api-fe
 
 Home: https://github.com/MET-OM/metocean-api
 
-Package license: GPL-2.0-or-later
+Package license: LGPL-2.1-or-later
 
 Summary: Package to extract time series of metocean data from global/regional/coastal hindcast
 
